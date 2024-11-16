@@ -1,0 +1,9 @@
+<style>
+    .reportview-container {
+        margin-top: -2em;
+    }
+    #MainMenu {visibility: hidden;}
+    .stAppDeployButton {display:none;}
+    footer {visibility: hidden;}
+    #stDecoration {display:none;}
+</style>
