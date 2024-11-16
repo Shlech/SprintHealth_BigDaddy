@@ -2,10 +2,11 @@ import streamlit as st
 
 import page_configuration
 
-PAGE_NAME = 'stat_page'
+PAGE_NAME = 'Stat_page'
 
 
 def construct_page():
+    st.sidebar.header("Data plots")
     st.button('Some')
 
 

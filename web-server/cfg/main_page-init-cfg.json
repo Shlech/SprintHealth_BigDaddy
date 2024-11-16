@@ -1,7 +1,0 @@
-{
-  "page_title": "Spring Health",
-  "layout": "wide",
-  "subpages": [
-    "pages/stat_page.py"
-  ]
-}
